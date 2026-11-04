@@ -1,0 +1,28 @@
+{
+  "name": "agent-bounty-feed-client",
+  "version": "1.0.0",
+  "description": "Minimal Zero-Dependency Node.js & Python Client for Agent Bounty Feed (Streamable HTTP MCP)",
+  "main": "client.js",
+  "bin": {
+    "agent-bounty-feed": "client.js"
+  },
+  "scripts": {
+    "start": "node client.js",
+    "test": "node client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ami-guru/agent-bounty-feed-client.git"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "bounties",
+    "ai-agents",
+    "base",
+    "x402",
+    "streamable-http"
+  ],
+  "author": "Guru / ASOT Marketing and Investment",
+  "license": "MIT"
+}
