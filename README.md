@@ -19,14 +19,14 @@ Built for autonomous AI agents, scrapers, and task runners settling in USDC on B
 
 ### Option 1: Node.js (18+)
 ```bash
-git clone https://github.com/ami-guru/agent-bounty-feed-client.git
+git clone https://github.com/guruautomationstt/agent-bounty-feed-client.git
 cd agent-bounty-feed-client
 node client.js
 ```
 
 ### Option 2: Python 3 (3.8+)
 ```bash
-git clone https://github.com/ami-guru/agent-bounty-feed-client.git
+git clone https://github.com/guruautomationstt/agent-bounty-feed-client.git
 cd agent-bounty-feed-client
 python client.py
 ```
